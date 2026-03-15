@@ -1,2 +1,2 @@
-# Bank-Marketing-Inspection-Test
-Bank Marketing dataset analysis using Python for customer behavior insights.
+# Python-Data-Analysis
+Python data analysis projects using real-world datasets for insights and predictions.
